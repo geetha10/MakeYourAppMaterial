@@ -25,7 +25,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     tools:background="@tools:sample/avatars"
-                    android:scaleType="centerCrop"
+                    android:scaleType="fitXY"
                     android:adjustViewBounds="true"/>
 
                 <View
